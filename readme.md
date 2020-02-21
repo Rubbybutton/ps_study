@@ -4,4 +4,5 @@
 	-中文
 	-英文
 - powershell中文网站
+- powershell英文网站
 - powershell范例脚本
